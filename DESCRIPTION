@@ -1,0 +1,13 @@
+Package: SLMRtools
+Type: Package
+Title: Systematic Literature Mapping and Review
+Version: 0.1.0
+Author: Brian Pando 
+Maintainer: Bria Pando <unasbrian@gmail.com>
+Description: Tools help in SLR and SLM 
+    Bubble 2 sides plit.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
