@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Brian Pando 
 Maintainer: Bria Pando <unasbrian@gmail.com>
 Description: Tools help in SLR and SLM 
-    Bubble 2 sides plit.
+    Bubble 2 sides plot and  Bubble 1 sides plot
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
